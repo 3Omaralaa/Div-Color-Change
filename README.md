@@ -24,4 +24,4 @@
 
 - increment this variable
 
-- if index is 3 .. reset to 0
+- if index is 4 .. reset to 0
