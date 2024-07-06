@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#btn{
+    background-color: #f6f6f6;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 200;
+    border: 1px solid #333;
+    font-family: "Montserrat";
+    cursor: pointer;
+}
+
+.div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #333;
+    margin-top: 10px;
+}
